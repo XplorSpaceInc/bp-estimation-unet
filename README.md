@@ -18,3 +18,6 @@ The model was trained by dividing up the waveforms into segments containing two 
 - Look into LSTM Networks
 - Try training the encoder as an autoencoder using PPG -> PPG. Then freeze the encoder layers and train only the decoder layer on PPG -> ABP.
 
+## Demo
+
+https://user-images.githubusercontent.com/72168799/130130348-b980843a-4e38-4bdd-89d5-1e2a5486cc68.mp4
